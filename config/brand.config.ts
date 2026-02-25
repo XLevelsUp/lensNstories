@@ -123,7 +123,7 @@ export interface BrandConfig {
 // Edit ONLY the values below to rebrand the entire application.
 
 export const brandConfig: BrandConfig = {
-  name: 'Studio Green',
+  name: 'Lens N Stories',
   description:
     'Professional photography services, camera & equipment rentals, studio space, and podcast recording in Coimbatore, Tamil Nadu.',
   url: 'https://lensnstories.in',
