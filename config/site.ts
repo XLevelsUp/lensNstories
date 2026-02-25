@@ -2,15 +2,15 @@ export const siteConfig = {
   name: 'Studio Green',
   description:
     'Professional photography services, camera & equipment rentals, studio space, and podcast recording in Coimbatore, Tamil Nadu.',
-  url: 'https://wanderingkite.in',
-  ogImage: 'https://wanderingkite.in/og-image.jpg',
+  url: 'https://lensnstories.in',
+  ogImage: 'https://lensnstories.in/og-image.jpg',
   links: {
-    instagram: 'https://instagram.com/wanderingkitestudio',
-    youtube: 'https://youtube.com/@wanderingkite',
-    linkedin: 'https://linkedin.com/company/wanderingkite',
+    instagram: 'https://instagram.com/lensnstoriesstudio',
+    youtube: 'https://youtube.com/@lensnstories',
+    linkedin: 'https://linkedin.com/company/lensnstories',
   },
   contact: {
-    email: 'hello@wanderingkite.in',
+    email: 'hello@lensnstories.in',
     phone: '+91 70100 92090', // Updated based on footer
     whatsapp: '917010092090',
     address: {

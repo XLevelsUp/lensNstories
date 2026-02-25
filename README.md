@@ -1,8 +1,8 @@
-# Wandering Kite Studio
+# Lens N Stories
 
 A modern, multi-disciplinary creative hub offering Photography, Camera Rentals, Studio Spaces, and Podcast Production services.
 
-![Wandering Kite Studio](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js)
+![Lens N Stories](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=for-the-badge&logo=typescript)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-38bdf8?style=for-the-badge&logo=tailwind-css)
 
@@ -28,8 +28,8 @@ A modern, multi-disciplinary creative hub offering Photography, Camera Rentals, 
 
 ```bash
 # Clone the repository
-git clone https://github.com/xlevelsuptech/WanderingKite.git
-cd WanderingKite
+git clone https://github.com/xlevelsuptech/lensnstories.git
+cd lensnstories
 
 # Install dependencies
 npm install
@@ -53,6 +53,7 @@ const WHATSAPP_NUMBER = '917010092090'; // Replace with your number
 ### SEO Metadata
 
 Update metadata in each page's `metadata` export:
+
 - `app/page.tsx` - Homepage
 - `app/photography/page.tsx` - Photography service
 - `app/rentals/page.tsx` - Equipment rentals
@@ -79,7 +80,7 @@ export const equipmentCatalog: Equipment[] = [
 ## 📁 Project Structure
 
 ```
-WanderingKite/
+lensnstories/
 ├── app/
 │   ├── layout.tsx          # Root layout with navigation
 │   ├── page.tsx            # Homepage
@@ -112,15 +113,10 @@ WanderingKite/
 ### Colors
 
 ```css
---bg-primary: #0F0F0F      /* Deep black */
---bg-secondary: #18181B    /* Zinc-900 */
---text-primary: #FAFAFA    /* White */
---text-secondary: #A1A1AA  /* Zinc-400 */
-
---accent-amber: #F59E0B    /* Photography */
---accent-blue: #3B82F6     /* Rentals */
---accent-purple: #A855F7   /* Studio */
---accent-green: #10B981    /* Podcast */
+--bg-primary: #0f0f0f /* Deep black */ --bg-secondary: #18181b /* Zinc-900 */
+  --text-primary: #fafafa /* White */ --text-secondary: #a1a1aa /* Zinc-400 */
+  --accent-amber: #f59e0b /* Photography */ --accent-blue: #3b82f6 /* Rentals */
+  --accent-purple: #a855f7 /* Studio */ --accent-green: #10b981 /* Podcast */;
 ```
 
 ### Typography
@@ -173,15 +169,15 @@ No environment variables required for basic setup. All configuration is in sourc
 
 ## 📄 License
 
-© 2026 Wandering Kite Studio. All rights reserved.
+© 2026 Lens N Stories. All rights reserved.
 
 ## 🤝 Contributing
 
-This is a private project for Wandering Kite Studio.
+This is a private project for Lens N Stories.
 
 ## 📞 Support
 
-For inquiries, contact via WhatsApp or visit [wanderingkite.in](https://wanderingkite.in)
+For inquiries, contact via WhatsApp or visit [lensnstories.in](https://lensnstories.in)
 
 ---
 

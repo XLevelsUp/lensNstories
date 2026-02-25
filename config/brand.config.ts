@@ -126,7 +126,7 @@ export const brandConfig: BrandConfig = {
   name: 'Studio Green',
   description:
     'Professional photography services, camera & equipment rentals, studio space, and podcast recording in Coimbatore, Tamil Nadu.',
-  url: 'https://wanderingkite.in',
+  url: 'https://lensnstories.in',
 
   colors: {
     // Primary: electric blue
@@ -205,6 +205,6 @@ export const brandConfig: BrandConfig = {
     logoLight: '/logo-light.svg',
     logoDark: '/logo-dark.svg',
     favicon: '/favicon.ico',
-    ogImage: 'https://wanderingkite.in/og-image.jpg',
+    ogImage: 'https://lensnstories.in/og-image.jpg',
   },
 };
