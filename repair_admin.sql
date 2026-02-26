@@ -3,6 +3,6 @@
 insert into public.profiles (id, email, full_name, role)
 select id, email, raw_user_meta_data->>'full_name', 'SUPER_ADMIN'
 from auth.users
-where email = 'admin@studiogreen.com'
+where email = 'admin@lensnstories.com'
 on conflict (id) do update
 set role = 'SUPER_ADMIN';

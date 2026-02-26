@@ -2,7 +2,7 @@ import { adminAuthClient } from '@/lib/supabase/admin';
 import { NextResponse } from 'next/server';
 
 export async function GET() {
-  const email = 'admin@studiogreen.com';
+  const email = 'admin@lensnstories.com';
   const password = 'admin123';
   const fullName = 'Super Admin';
 
